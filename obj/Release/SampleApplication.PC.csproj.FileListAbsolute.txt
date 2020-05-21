@@ -1,0 +1,23 @@
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.CogNamer.PC.dll
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.SDK.Discovery.PC.dll
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.SDK.PC.dll
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.SDK.Utils.PC.dll
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.SDK.PC.xml
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Cognex.DataMan.SDK.frmReconnecting.resources
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Cognex.DataMan.SDK.MainForm.resources
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Cognex.DataMan.SDK.Properties.Resources.resources
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\SampleApplication.PC.csproj.GenerateResource.cache
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\SampleApplication.PC.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\SampleApplication.PC.csproj.CopyComplete
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\SampleApplication.PC.csprojAssemblyReference.cache
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Dataman Keyboard Emulator.exe.manifest
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Dataman Keyboard Emulator.application
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Dataman Keyboard Emulator.exe
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Release\Dataman Keyboard Emulator.pdb
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.TrustInfo.xml
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.exe.manifest
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.application
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.exe
+C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.pdb

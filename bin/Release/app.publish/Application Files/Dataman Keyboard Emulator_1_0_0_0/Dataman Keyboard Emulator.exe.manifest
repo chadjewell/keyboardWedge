@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Dataman Keyboard Emulator.exe" version="1.0.0.0" publicKeyToken="33336072b9c2cc93" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="cognexIcon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Dataman Keyboard Emulator" version="5.6.3.122" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Dataman Keyboard Emulator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" ID="Custom" SameSite="site" Unrestricted="true" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+             If you want to change the Windows User Account Control level replace the 
+             requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            Specifying requestedExecutionLevel element will disable file and registry virtualization. 
+            Remove this element if your application requires this virtualization for backwards
+            compatibility.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cognex.DataMan.CogNamer.PC.dll" size="76248">
+      <assemblyIdentity name="Cognex.DataMan.CogNamer.PC" version="5.6.3.122" publicKeyToken="9F98866F2A3A2E78" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>NJtnUKWcWCkMo9fI5BQv9mKRLZk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cognex.DataMan.SDK.Discovery.PC.dll" size="27096">
+      <assemblyIdentity name="Cognex.DataMan.SDK.Discovery.PC" version="5.6.3.122" publicKeyToken="9F98866F2A3A2E78" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>i4n8xOch46MH3Nl/no0Jzy1tQng=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cognex.DataMan.SDK.PC.dll" size="81368">
+      <assemblyIdentity name="Cognex.DataMan.SDK.PC" version="5.6.3.122" publicKeyToken="9F98866F2A3A2E78" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>bl6uRZitnFEH91lebiBKZ6Ble5A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cognex.DataMan.SDK.Utils.PC.dll" size="49112">
+      <assemblyIdentity name="Cognex.DataMan.SDK.Utils.PC" version="5.6.3.122" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>HSczHugv8DbnryKKz9i6Xy23fe0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dataman Keyboard Emulator.exe" size="475560">
+      <assemblyIdentity name="Dataman Keyboard Emulator" version="5.6.3.122" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>LQoCtscvCB4i1nhBQv0BJWbhmBc=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="cognexIcon.ico" size="221398">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>QuNiOXO4cN8PdUE5BZnkVMu2V78=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- A list of the Windows versions that this application has been tested on
+           and is designed to work with. Uncomment the appropriate elements
+           and Windows will automatically select the most compatible environment. -->
+      <!-- Windows Vista -->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />-->
+      <!-- Windows 7 -->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />-->
+      <!-- Windows 8 -->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}" />-->
+      <!-- Windows 8.1 -->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}" />-->
+      <!-- Windows 10 -->
+      <!--<supportedOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}" />-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=NATICK-NT\cjewell" issuerKeyHash="c2de059bb9dc2a274d6a406e826940c8a3051e59" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>2FFQllo+sZVFThvSiFdaWS8gTec=</DigestValue></Reference></SignedInfo><SignatureValue>JjKmEUfpAcSPcjdmOOedFzCyFELYf0J5d8QhNGptumwQpHcCXHp33u1EU1Qpdj84SZKOU6if+8AgytsulXl3ZotReBDFLG7+FbE3pS1bTLd7l2JGnxEpIp+GyEM+1c71OCqOTOgqQt7QV1XqsqauVvvjucN3rglQaXZavIx7rSM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>q84slSbJFXsPDBmOo+SOZ1Po8kJtpMYJf0jY0RugJC5XR6FmIr7gIjXy+hXbNgdd7/7j+i+V9BLRazAwrxT4q4kLSrKtR/TxF3h7t9SDEivPRCmJJpXgrf4F42xCkvYS2ezzjA0hxRad0e5DJJpmdAR1tQ/MOT/Q86IiQlKK5WE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="e74d202f595a5788d21b4e4595b13e5a965051d8" Description="" Url=""><as:assemblyIdentity name="Dataman Keyboard Emulator.exe" version="1.0.0.0" publicKeyToken="33336072b9c2cc93" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=NATICK-NT\cjewell</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>q2ars5wr6qAcoiZSdJngh2m9OAc=</DigestValue></Reference></SignedInfo><SignatureValue>fDMa5chJUIWFT2uP8F82N153+McspbyQlqlC9PAqOKS6LPzqxn8uUsSpV0K3bOTK9vfhX8Mc7NmMha7zqNGVShocxk0R6aaxDB7yoVP3pLHy29QFiu6aaxZc6AM5ywnbjUdE+F+4Zgm3/UY+xaFhjVlpk5a715y14nuqLQ6vhGE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>q84slSbJFXsPDBmOo+SOZ1Po8kJtpMYJf0jY0RugJC5XR6FmIr7gIjXy+hXbNgdd7/7j+i+V9BLRazAwrxT4q4kLSrKtR/TxF3h7t9SDEivPRCmJJpXgrf4F42xCkvYS2ezzjA0hxRad0e5DJJpmdAR1tQ/MOT/Q86IiQlKK5WE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB3TCCAUagAwIBAgIQNRnc+SzooZxGEW5Ji+AR5zANBgkqhkiG9w0BAQUFADAtMSswKQYDVQQDHiIATgBBAFQASQBDAEsALQBOAFQAXABjAGoAZQB3AGUAbABsMB4XDTIwMDUyMTEzMDAzNVoXDTIxMDUyMTE5MDAzNVowLTErMCkGA1UEAx4iAE4AQQBUAEkAQwBLAC0ATgBUAFwAYwBqAGUAdwBlAGwAbDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAq84slSbJFXsPDBmOo+SOZ1Po8kJtpMYJf0jY0RugJC5XR6FmIr7gIjXy+hXbNgdd7/7j+i+V9BLRazAwrxT4q4kLSrKtR/TxF3h7t9SDEivPRCmJJpXgrf4F42xCkvYS2ezzjA0hxRad0e5DJJpmdAR1tQ/MOT/Q86IiQlKK5WECAwEAATANBgkqhkiG9w0BAQUFAAOBgQAn/UisUw7McnNNNoloS02cLYkqKpM+zQdHx/eGK0fcQ5/tKHgIbNNGAfurv3F90BGnK21m3H3liyUhjMoChm1NIuB4Nw6PQXxXTvjUXZKkodyE4uFwgs1p149cGojei/h/Ew23oWnZMncULc/fgAtJFfOsmVeAz7xd+tcgCMZCWQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
