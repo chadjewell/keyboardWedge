@@ -21,3 +21,23 @@ C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Rele
 C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.application
 C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.exe
 C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Release\Dataman Keyboard Emulator.pdb
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\SampleApplication.PC.csproj.AssemblyReference.cache
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Cognex.DataMan.SDK.frmReconnecting.resources
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Cognex.DataMan.SDK.MainForm.resources
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Cognex.DataMan.SDK.Properties.Resources.resources
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\SampleApplication.PC.csproj.GenerateResource.cache
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\SampleApplication.PC.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Dataman Keyboard Emulator.TrustInfo.xml
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Dataman Keyboard Emulator.exe
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Dataman Keyboard Emulator.pdb
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Dataman Keyboard Emulator.exe.manifest
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Dataman Keyboard Emulator.application
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Dataman Keyboard Emulator.exe
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Dataman Keyboard Emulator.pdb
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Cognex.DataMan.CogNamer.PC.dll
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Cognex.DataMan.SDK.Discovery.PC.xml
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Cognex.DataMan.SDK.PC.xml
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Release\Cognex.DataMan.SDK.Utils.PC.xml
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Dataman Keyboard Emulator.exe.manifest
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\Dataman Keyboard Emulator.application
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Release\SampleApplication.PC.csproj.CopyComplete

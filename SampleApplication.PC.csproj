@@ -55,10 +55,10 @@
     <ApplicationIcon>cognexIcon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>EC242B81ADE324874728B3355326C937BD9B0D7D</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>17660B659619A2AB51E0E0570DF02E07603F98BE</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>SampleApplication.PC_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>SampleApplication.PC_2_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -137,6 +137,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="SampleApplication.PC_2_TemporaryKey.pfx" />
     <None Include="SampleApplication.PC_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>

@@ -16,3 +16,19 @@ C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Debu
 C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\bin\Debug\SampleApplication.pdb
 C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.exe
 C:\Users\cjewell\Cognex\DataMan SDK 5.6.3\Sample Codes\DataManSdkSample\obj\Debug\SampleApplication.pdb
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\SampleApplication.PC.csproj.AssemblyReference.cache
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Cognex.DataMan.SDK.frmReconnecting.resources
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Cognex.DataMan.SDK.MainForm.resources
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Cognex.DataMan.SDK.Properties.Resources.resources
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\SampleApplication.PC.csproj.GenerateResource.cache
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\SampleApplication.PC.csproj.CoreCompileInputs.cache
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Dataman Keyboard Emulator.TrustInfo.xml
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Dataman Keyboard Emulator.exe
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Dataman Keyboard Emulator.pdb
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Debug\Dataman Keyboard Emulator.exe.manifest
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Debug\Dataman Keyboard Emulator.application
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Debug\Dataman Keyboard Emulator.exe
+C:\Users\cjewell\source\repos\keyboardWedge\bin\Debug\Dataman Keyboard Emulator.pdb
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Dataman Keyboard Emulator.exe.manifest
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\Dataman Keyboard Emulator.application
+C:\Users\cjewell\source\repos\keyboardWedge\obj\Debug\SampleApplication.PC.csproj.CopyComplete

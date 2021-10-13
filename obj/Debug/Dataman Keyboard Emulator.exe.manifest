@@ -53,18 +53,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cognex.DataMan.CogNamer.PC.dll" size="76248">
-      <assemblyIdentity name="Cognex.DataMan.CogNamer.PC" version="5.6.3.122" publicKeyToken="9F98866F2A3A2E78" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>NJtnUKWcWCkMo9fI5BQv9mKRLZk=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cognex.DataMan.SDK.Discovery.PC.dll" size="27096">
       <assemblyIdentity name="Cognex.DataMan.SDK.Discovery.PC" version="5.6.3.122" publicKeyToken="9F98866F2A3A2E78" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -101,14 +89,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dataman Keyboard Emulator.exe" size="475560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dataman Keyboard Emulator.exe" size="476584">
       <assemblyIdentity name="Dataman Keyboard Emulator" version="5.6.3.122" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>HTQE8Nz45jQrVitNoyfkqwxKLIk=</dsig:DigestValue>
+        <dsig:DigestValue>MPhd5epLBDlsQe7r43zQicrRVFM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

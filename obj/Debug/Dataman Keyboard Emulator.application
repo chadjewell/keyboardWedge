@@ -4,14 +4,14 @@
   <description asmv2:publisher="Dataman Keyboard Emulator" asmv2:product="Dataman Keyboard Emulator" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Dataman Keyboard Emulator.exe.manifest" size="7907">
+    <dependentAssembly dependencyType="install" codebase="Dataman Keyboard Emulator.exe.manifest" size="7219">
       <assemblyIdentity name="Dataman Keyboard Emulator.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>RLkb2esF4mD49uvYebdYvh1NXkA=</dsig:DigestValue>
+        <dsig:DigestValue>WuT2i9kBcIkMNM2i+ROPNPX9zJ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
