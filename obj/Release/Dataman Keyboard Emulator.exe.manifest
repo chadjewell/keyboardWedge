@@ -101,14 +101,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dataman Keyboard Emulator.exe" size="475560">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Dataman Keyboard Emulator.exe" size="474624">
       <assemblyIdentity name="Dataman Keyboard Emulator" version="5.6.3.122" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>HTQE8Nz45jQrVitNoyfkqwxKLIk=</dsig:DigestValue>
+        <dsig:DigestValue>ac/bAEiYz0W4I8SfvcnJrFtG4WI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -51,8 +51,8 @@
             this.panel2 = new System.Windows.Forms.Panel();
             this.tbLog = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.cbLoggingEnabled = new System.Windows.Forms.CheckBox();
             this.cbEmulate = new System.Windows.Forms.CheckBox();
+            this.cbLoggingEnabled = new System.Windows.Forms.CheckBox();
             ((System.ComponentModel.ISupportInitialize)(this.picResultImage)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -95,10 +95,9 @@
             // 
             this.listBox1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.listBox1.ItemHeight = 25;
             this.listBox1.Location = new System.Drawing.Point(15, 23);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(448, 179);
+            this.listBox1.Size = new System.Drawing.Size(448, 173);
             this.listBox1.TabIndex = 3;
             // 
             // btnTrigger
@@ -123,7 +122,7 @@
             this.txtDeviceIP.Location = new System.Drawing.Point(76, 24);
             this.txtDeviceIP.Name = "txtDeviceIP";
             this.txtDeviceIP.ReadOnly = true;
-            this.txtDeviceIP.Size = new System.Drawing.Size(157, 31);
+            this.txtDeviceIP.Size = new System.Drawing.Size(157, 20);
             this.txtDeviceIP.TabIndex = 7;
             // 
             // label3
@@ -138,15 +137,14 @@
             // 
             this.txtPassword.Location = new System.Drawing.Point(76, 51);
             this.txtPassword.Name = "txtPassword";
-            this.txtPassword.Size = new System.Drawing.Size(157, 31);
+            this.txtPassword.Size = new System.Drawing.Size(157, 20);
             this.txtPassword.TabIndex = 9;
             // 
             // listBoxDetectedSystems
             // 
-            this.listBoxDetectedSystems.ItemHeight = 25;
             this.listBoxDetectedSystems.Location = new System.Drawing.Point(240, 24);
             this.listBoxDetectedSystems.Name = "listBoxDetectedSystems";
-            this.listBoxDetectedSystems.Size = new System.Drawing.Size(222, 129);
+            this.listBoxDetectedSystems.Size = new System.Drawing.Size(222, 121);
             this.listBoxDetectedSystems.TabIndex = 10;
             this.listBoxDetectedSystems.SelectedIndexChanged += new System.EventHandler(this.listBoxDetectedSystems_SelectedIndexChanged);
             // 
@@ -269,14 +267,6 @@
             this.panel1.Size = new System.Drawing.Size(879, 36);
             this.panel1.TabIndex = 1;
             // 
-            // cbLoggingEnabled
-            // 
-            this.cbLoggingEnabled.Location = new System.Drawing.Point(18, 10);
-            this.cbLoggingEnabled.Name = "cbLoggingEnabled";
-            this.cbLoggingEnabled.Size = new System.Drawing.Size(105, 17);
-            this.cbLoggingEnabled.TabIndex = 0;
-            this.cbLoggingEnabled.Text = "Logging enabled";
-            // 
             // cbEmulate
             // 
             this.cbEmulate.Location = new System.Drawing.Point(129, 10);
@@ -284,6 +274,14 @@
             this.cbEmulate.Size = new System.Drawing.Size(252, 17);
             this.cbEmulate.TabIndex = 1;
             this.cbEmulate.Text = "Keyboard Emulation";
+            // 
+            // cbLoggingEnabled
+            // 
+            this.cbLoggingEnabled.Location = new System.Drawing.Point(18, 10);
+            this.cbLoggingEnabled.Name = "cbLoggingEnabled";
+            this.cbLoggingEnabled.Size = new System.Drawing.Size(105, 17);
+            this.cbLoggingEnabled.TabIndex = 0;
+            this.cbLoggingEnabled.Text = "Logging enabled";
             // 
             // MainForm
             // 
